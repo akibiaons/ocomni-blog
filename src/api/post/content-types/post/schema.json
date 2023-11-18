@@ -36,6 +36,9 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::post.post"
+    },
+    "excerpt": {
+      "type": "string"
     }
   }
 }
